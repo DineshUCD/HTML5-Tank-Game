@@ -1,0 +1,27 @@
+//Dinesh Jayasankar
+var canvas              = null;
+var mapCanvas           = null;
+var context             = null;
+var image               = null;
+var sprites             = null;
+var ON                  = true;
+var OFF                 = false;
+var TO_RADIANS          = Math.PI / 180;
+var UNIT_CIRCLE_OFFSET  = 90;
+var REVERSE_ANGLE       = 180;
+var UNIFORM_MASS        = {x: 0, y: 0};
+var PLAYER_SPEED        = 400;
+var RATE_OF_FIRE        = 120;
+var FIRE_RANGE          = 1000;
+var PARTITION_SIZE      = 100;
+var GRID_ITEMS          = 100;
+var SECTOR_SIZE_MULT    = 5;
+var spriteSheets        = new Array();
+var imageCache          = new Array();
+var bindings            = {};
+var actions             = {};
+var fps = 30;
+var now;
+var then = Date.now();
+var interval = 1000/fps;
+var delta;

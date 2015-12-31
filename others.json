@@ -1,0 +1,165 @@
+{"frames": [
+
+{
+	"filename": "BombExploding.png",
+	"frame": {"x":419,"y":48,"w":409,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":409,"h":63},
+	"sourceSize": {"w":416,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "E-100_preview.png",
+	"frame": {"x":419,"y":113,"w":96,"h":207},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":207},
+	"sourceSize": {"w":96,"h":207},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "M-6_strip2.png",
+	"frame": {"x":900,"y":2,"w":205,"h":270},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":270},
+	"sourceSize": {"w":218,"h":270},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Tower.png",
+	"frame": {"x":2,"y":2,"w":415,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":3,"w":415,"h":225},
+	"sourceSize": {"w":472,"h":236},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bullet.png",
+	"frame": {"x":628,"y":145,"w":58,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":34},
+	"sourceSize": {"w":58,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "canon.png",
+	"frame": {"x":1172,"y":127,"w":88,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":47},
+	"sourceSize": {"w":88,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dirtTrack.png",
+	"frame": {"x":830,"y":108,"w":44,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":3},
+	"sourceSize": {"w":44,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dirtTrackSingle.png",
+	"frame": {"x":876,"y":108,"w":7,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":3},
+	"sourceSize": {"w":7,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "grassTrack.png",
+	"frame": {"x":419,"y":211,"w":44,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":3},
+	"sourceSize": {"w":44,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "grassTrackSingle.png",
+	"frame": {"x":419,"y":2,"w":44,"h":479},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":44,"h":479},
+	"sourceSize": {"w":46,"h":480},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "healthPack.png",
+	"frame": {"x":830,"y":48,"w":55,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":58},
+	"sourceSize": {"w":55,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shield.png",
+	"frame": {"x":1172,"y":2,"w":119,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":123},
+	"sourceSize": {"w":119,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "stoneTrack.png",
+	"frame": {"x":1172,"y":176,"w":44,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":3},
+	"sourceSize": {"w":44,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "stoneTrackSingle.png",
+	"frame": {"x":419,"y":2,"w":44,"h":479},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":44,"h":479},
+	"sourceSize": {"w":46,"h":480},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "turret.png",
+	"frame": {"x":628,"y":113,"w":248,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":248,"h":30},
+	"sourceSize": {"w":256,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "waterTrack.png",
+	"frame": {"x":1262,"y":127,"w":44,"h":3},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":3},
+	"sourceSize": {"w":44,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "waterTrackSingle.png",
+	"frame": {"x":887,"y":48,"w":7,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":3},
+	"sourceSize": {"w":7,"h":3},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "others.png",
+	"format": "RGBA8888",
+	"size": {"w":1293,"h":229},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0f236b42b6374557a1c0d4dfb5d32de7:98ee2641daa4a67c921eb5deec69c82f:3c96bb5ec09a92b02f74aadf5ccc8bea$"
+}
+}
